@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 <<<<<<< HEAD
 echo "hello git";
@@ -13,3 +14,7 @@ if ($_POST['edit']) {
 	echo "for editing";
 }
 >>>>>>> 9d015d5638de73068722eb6b0034ef5a9a16668f
+=======
+<?
+echo "hai";
+>>>>>>> cc24500701aaf68e0ff00f3f633152ce8ac0ef4f

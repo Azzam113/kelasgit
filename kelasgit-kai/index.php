@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
->>>>>>> 94df814b77dcc29ef02876e9e76da4f9630f9810
 <?php
-bang.kai;
 echo "hello git";
-
 
 echo "hello git at UTM";
 
@@ -17,11 +10,5 @@ echo"Most of the time you will have a checked-out branch (the special reference 
 if ($_POST['edit']) {
 	echo "for editing";
 }
-<<<<<<< HEAD
-=======
->>>>>>> 9d015d5638de73068722eb6b0034ef5a9a16668f
-=======
-<?
-echo "hai";
->>>>>>> cc24500701aaf68e0ff00f3f633152ce8ac0ef4f
->>>>>>> 94df814b77dcc29ef02876e9e76da4f9630f9810
+
+test
